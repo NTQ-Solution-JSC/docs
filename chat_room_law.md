@@ -1,4 +1,7 @@
 #Luật của chat room
+### Phương thức đặt tên id
+Sau khi đăng kí tài khoản thành công, bạn đổi lại thông tin id của bản thân trùng với tên email công việc.
+
 ### Hành vi ứng xử
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "be nice". Điều này có nghĩa là gì:
 - Xin hãy đừng quên bạn đang trong một nhóm làm việc. Hãy chuyên nghiệp trong những tác phong cơ bản.
